@@ -91,3 +91,4 @@ function ghPages {
   # navigate back to the previous directory
   cd -
 }
+
